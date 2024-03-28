@@ -106,6 +106,7 @@ I am  __Nurul__, and I am a student at [Universiti Teknologi Malaysia](https://w
  
 </details>
 -->
+<!--
 <h1 align="center">Hi 👋, I'm Nurul Jamal</h1>
 <h3 align="center">A passionate PhD student at UTM</h3>
 
@@ -128,4 +129,4 @@ I am  __Nurul__, and I am a student at [Universiti Teknologi Malaysia](https://w
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrlnzjml&show_icons=true&locale=en" alt="nrlnzjml" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrlnzjml&" alt="nrlnzjml" /></p>
-
+-->
