@@ -34,7 +34,6 @@
 
 ##### Adaptive Learning Analytics Framework for Discovering Students Competencies
 - 📜 Review on the Initiatives Taken by the Education Sectors to Nurture CT with Ubiquitous Learning Paradigm [Submitted]
-- 📜 Development of InCLOOM: A Competency Ontology Model [Submitted]
 - 💾 [Github]
   
 ---
